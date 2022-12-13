@@ -12,5 +12,5 @@ command = "npm run build:debug"
 
 [build_release]
 dir = "build"
-entry = "rubber_pink_mastodon-bdf3-release.wasm"
+entry = "rubber_pink_mastodon-bdf3.wasm"
 command = "npm run build:release"
